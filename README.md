@@ -19,7 +19,7 @@ To take a cleartext YAML file and produce an encrypted version of it, simply do:
  ```
  EncryptedYAML.py e <cleartext_config_source.yaml> <encrypted_config_dest.yaml>
  ```
-You will then be prompted to enter a password to secure the encrypted file **Note: The password must be more than 8 characterss in length**
+You will then be prompted to enter a password to secure the encrypted file **Note: The password must be more than 8 characters in length**
 
 **Once encrypted and you are happy remember to securely delete the cleartext original (*and remember the password!*)**
  
